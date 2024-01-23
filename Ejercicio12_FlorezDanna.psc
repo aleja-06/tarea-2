@@ -1,0 +1,9 @@
+Algoritmo AreaCirculo
+Escribir "Digite el radio del circulo:"
+Leer radio
+
+Area <- PI * (radio ^ 2)
+Escribir "El area del circulo es de: ", Area
+FinAlgoritmo
+	
+
